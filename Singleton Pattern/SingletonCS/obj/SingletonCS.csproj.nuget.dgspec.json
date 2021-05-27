@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Learnings\\Interview prep\\Github Design Patterns\\design-patterns\\Decorator Pattern\\DecoratorCS\\DecoratorCS.csproj": {}
+    "D:\\Learnings\\Interview prep\\Github Design Patterns\\design-patterns\\Singleton Pattern\\SingletonCS\\SingletonCS.csproj": {}
   },
   "projects": {
-    "D:\\Learnings\\Interview prep\\Github Design Patterns\\design-patterns\\Decorator Pattern\\DecoratorCS\\DecoratorCS.csproj": {
+    "D:\\Learnings\\Interview prep\\Github Design Patterns\\design-patterns\\Singleton Pattern\\SingletonCS\\SingletonCS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Learnings\\Interview prep\\Github Design Patterns\\design-patterns\\Decorator Pattern\\DecoratorCS\\DecoratorCS.csproj",
-        "projectName": "DecoratorCS",
-        "projectPath": "D:\\Learnings\\Interview prep\\Github Design Patterns\\design-patterns\\Decorator Pattern\\DecoratorCS\\DecoratorCS.csproj",
+        "projectUniqueName": "D:\\Learnings\\Interview prep\\Github Design Patterns\\design-patterns\\Singleton Pattern\\SingletonCS\\SingletonCS.csproj",
+        "projectName": "SingletonCS",
+        "projectPath": "D:\\Learnings\\Interview prep\\Github Design Patterns\\design-patterns\\Singleton Pattern\\SingletonCS\\SingletonCS.csproj",
         "packagesPath": "C:\\Users\\axiomio03\\.nuget\\packages\\",
-        "outputPath": "D:\\Learnings\\Interview prep\\Github Design Patterns\\design-patterns\\Decorator Pattern\\DecoratorCS\\obj\\",
+        "outputPath": "D:\\Learnings\\Interview prep\\Github Design Patterns\\design-patterns\\Singleton Pattern\\SingletonCS\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
