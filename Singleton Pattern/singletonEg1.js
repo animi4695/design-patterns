@@ -18,5 +18,7 @@ class UserStore {
   
 const instance = new UserStore();
 Object.freeze(instance);
+const instance2 = new UserStore();
+console.log(instance2 === instance);
 
-export default instance;
+module.exports = instance;
