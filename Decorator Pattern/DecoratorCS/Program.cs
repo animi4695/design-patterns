@@ -9,9 +9,11 @@ namespace DecoratorCS
             Coffee espresso = new Espresso();
             printCoffee(espresso);
             
+            // wrap a espresso coffee with milk
             espresso = new WithMilk(espresso);
             printCoffee(espresso);
-
+            
+            // wrap a espresso coffee with Sugar
             espresso = new WithSugar(espresso);
             printCoffee(espresso);
         }
