@@ -8,7 +8,7 @@ namespace StrategyCS
 
         }
 
-        public void PerformFly() {
+        public new void PerformFly() {
             flyBehavior.Fly();
         }
 
